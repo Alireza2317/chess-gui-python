@@ -59,3 +59,10 @@ uv run main.py
 ├── pyproject.toml   # Project configuration
 └── uv.lock          # Dependency lockfile
 ```
+## Roadmap & Upcoming Features
+The following features are currently being developed in experimental branches:
+- Move History: Full move recording with persistent storage.
+- Undo/Redo System: Implementation of the Command Pattern for game state reversal.
+- CLI Mode: A fully text-based terminal version of the game.
+- FEN loader and exporter
+- and much more ...
